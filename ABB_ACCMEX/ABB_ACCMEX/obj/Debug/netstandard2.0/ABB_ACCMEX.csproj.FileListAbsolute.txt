@@ -1,0 +1,16 @@
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\bin\Debug\netstandard2.0\ABB_ACCMEX.deps.json
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\bin\Debug\netstandard2.0\ABB_ACCMEX.dll
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\bin\Debug\netstandard2.0\ref\ABB_ACCMEX.dll
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\bin\Debug\netstandard2.0\ABB_ACCMEX.pdb
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\ABB_ACCMEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\Presentacion\Login.xaml.g.cs
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\ABB_ACCMEX.AssemblyInfoInputs.cache
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\ABB_ACCMEX.AssemblyInfo.cs
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\ABB_ACCMEX.csproj.CoreCompileInputs.cache
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\ABB_ACCMEX.dll
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\ref\ABB_ACCMEX.dll
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\ABB_ACCMEX.pdb
+C:\Users\visua\source\repos\ABB_ACCMEX\ABB_ACCMEX\ABB_ACCMEX\obj\Debug\netstandard2.0\Presentacion\Index.xaml.g.cs
